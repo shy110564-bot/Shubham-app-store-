@@ -1,0 +1,6 @@
+{
+  "name": "App Store",
+  "description": "A premium application store with dynamic app search, direct downloads, and a fully featured admin upload panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
